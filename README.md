@@ -20,11 +20,7 @@ This Power BI project analyzes real-world Netflix data to uncover insights into 
 - DAX
 - Microsoft Excel (for data cleaning)
 
-## 📸 Preview
-![Dashboard](dashboard.png)
-
----
 
 ## 🔗 Connect with me
 Let’s discuss or collaborate on data projects!  
-[LinkedIn](https://www.linkedin.com/in/your-profile/)
+[LinkedIn](https://www.linkedin.com/in/kanika-srinivasan-8aab862b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BmpGe417xTkOrYza0dRFX6g%3D%3D)
